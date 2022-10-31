@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sunjuyoung
-- 👀 I’m interested in ... WEB APP , DOCKER ,AWS 
-- 🌱 I’m currently learning ... JPA , KAFKA , MICROSERVICE
+- 💻 skills .... JAVA, Spring, Spring Boot, Mybatis, JPA, mysql, Docker 
+- 👀 I’m interested in ... kubernetes, AWS, Redis, React.js 
+- 🌱 I’m currently learning ... JPA, KAFKA, MICROSERVICE
 
 - 📫 How to reach me ...
 
