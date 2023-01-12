@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is sun ju young
 ====================================================================================================================================
 - 💻 skills ....  Spring Boot, Mybatis, JPA, mysql, Docker 
-- 👀 I’m interested in ... kubernetes, AWS, Redis, Next.js
+- 👀 I’m interested in ... kubernetes, AWS, Redis, Next.js, FastAPI
 - 🌱 I’m currently learning ... Spring Security, KAFKA, MICROSERVICE, RTK Query
 
 - 📫 How to reach me ...
