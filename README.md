@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is sun ju young
 ====================================================================================================================================
-- 💻 skills ....  Spring Boot, Mybatis, JPA, mysql, Docker 
-- 👀 I’m interested in ... kubernetes, AWS, Redis, Next.js, FastAPI
-- 🌱 I’m currently learning ... Spring Security, KAFKA, MICROSERVICE, RTK Query
+- 💻 skills ....  Spring Boot, React.js, Mybatis, JPA, QueryDsl, Docker, Jenkins
+- 👀 I’m interested in ... kubernetes, AWS, Next.js
+
 
 - 📫 How to reach me ...
 <div align=center><h1>📚 STACKS</h1></div>
@@ -10,7 +10,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+<!--   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">  -->
   <br>
   
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
