@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is sun ju young
 ====================================================================================================================================
 - 💻 skills ....  Spring , ReactJs, NodeJs, Mysql, Mybatis, JPA, QueryDsl, Docker, Aws, Jenkins
-- 👀 I’m interested in ... Kotlin, kubernetes, Next.js
+- 👀 I’m interested in ... Kotlin, kubernetes, python
 
 
 - 📫 How to reach me ...
