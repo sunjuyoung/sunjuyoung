@@ -1,6 +1,6 @@
 
 - 💻 skills ....  Spring , ReactJs, Mysql, Mybatis, JPA, QueryDsl, Docker, Aws, Jenkins
-- 👀 I’m interested in ... Kotlin, kubernetes, python
+- 👀 I’m interested in ...  python, LLM
 
 
 <div align=center><h1>📚 STACKS</h1></div>
